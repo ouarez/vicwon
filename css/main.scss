@@ -1,0 +1,43 @@
+---
+---
+// variables
+$primary-font: 'Montserrat', sans-serif;
+
+
+body {
+  font-family:$primary-font;
+}
+
+header {
+  nav {
+    a {
+      color:#999;
+      &:hover {border-bottom:solid #999 2px;padding-bottom:2px;}
+      &.active {border-bottom:solid #ccc 2px;padding-bottom:2px;}
+    }
+  }
+
+}
+
+.thumb {
+  min-width:300px;
+  min-height:300px;
+}
+
+.shadow {
+
+  &:hover {
+    span {display:block;}
+    background:
+       linear-gradient(
+         rgba(0, 0, 0, 0.6),
+         rgba(0, 0, 0, 0.6)
+       );
+  }
+}
+
+.cover {
+ background-repeat:no-repeat;
+ background-size: cover;
+ background-position:center center;
+}

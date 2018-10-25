@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<main class="flex flex-wrap pa3">
+
+{% for project in site.projects %}
+  <div class="w-100 w-third-l ph3-l tc pointer pv3">
+    <a href="{{project.url}}" class="link" alt="{{project.title}}">
+      <img src="{{project.cover_image}}"/ alt="{{project.title}}"/>
+      <span class="ttu gray tracked pv3 db">Florals</span>
+    </a>
+  </div>
+{% endfor %}
+
+
+
+</main> <!-- end main -->
