@@ -12,7 +12,7 @@ collections:
     folder: "_projects"
     create: true
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "projects"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "project"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Cover Image", name: "cover_image", widget: "image"}

@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: project
 title: Florals
 description: Florals description here (for Google)
 cover_image: /img/florals.jpg
@@ -17,7 +17,7 @@ works:
   - desc: |-
       Acrylics and graphite on panel
 
-      Acryliques et graphite sur panneau 
+      Acryliques et graphite sur panneau
 
       18 x 18” (45.7 x 45.7cm)
 
@@ -35,4 +35,3 @@ works:
     image: /img/florals3.jpg
     name: Sunflower
 ---
-

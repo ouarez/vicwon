@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: project
 title: Still Life
 description: description for Google here
 cover_image: /img/still-life.jpg
@@ -35,4 +35,3 @@ works:
     image: /img/still-life3.jpg
     name: Accomodation
 ---
-

@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<main class="flex flex-wrap pa3">
+
+{% for work in page.works %}
+  <div class="w-100 w-third-l ph3-l tc pointer grow pv3">
+    <a data-fancybox="gallery"
+      data-caption="<i>{{work.name}}</i><br/>{{work.desc | markdownify}}"
+      href="{{work.image}}" class="link" alt="{{work.name}}">
+      <div class="thumb cover w-100 dt" style="background-image:url('{{work.image}}')">
+        <div class="w-100 h5 pv4 shadow dtc v-mid">
+          <span class="dn white pv3 f2">{{work.name}}</span>
+        </div>
+      </div>
+    </a>
+  </div>
+{% endfor %}
+
+</main> <!-- end main -->

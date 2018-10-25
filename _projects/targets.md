@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: project
 title: Targets
 description: Description for Google here
 cover_image: /img/targets.jpg
@@ -35,4 +35,3 @@ works:
     image: /img/target3.jpg
     name: On Target 2
 ---
-

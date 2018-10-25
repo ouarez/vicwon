@@ -2,10 +2,19 @@
 ---
 // variables
 $primary-font: 'Montserrat', sans-serif;
+$alt-font: 'Merriweather', sans-serif;
+
+.alt-font {font-family:$alt-font;}
 
 
 body {
   font-family:$primary-font;
+}
+
+.container {
+  max-width:1200px;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 header {

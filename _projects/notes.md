@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: project
 title: Notes
 description: Description for Notes project (Google)
 cover_image: /img/notes1.jpg
@@ -33,4 +33,3 @@ works:
     image: /img/notes4.jpg
     name: Yellow Notes
 ---
-

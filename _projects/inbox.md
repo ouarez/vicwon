@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: project
 title: Inbox
 description: >-
   The Inbox was designed for a thematic gallery project called the ‘Elephant in
@@ -31,4 +31,3 @@ works:
   - image: /img/inbox11.jpg
     name: Inbox 11
 ---
-

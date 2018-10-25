@@ -3,20 +3,20 @@
 <div class="db dn-l tc">
   <h1><a href="/" class="link ttu black" alt="{{site.data.settings.site_title}}">{{site.data.settings.site_title}}</a></h1>
   <nav>
-    {% for item in site.data.navigation.main_nav %}
-      <a href="{{item.url}}" class="db w-100 ttu link pv2 {% if item.url == page.url %}active{% endif %}">{{item.title}}</a>
-    {% endfor %}
+    <a href="/" class="db w-100 ttu link pv2 {% if page.url == "/" %}active{% endif %}">Home</a>
+    <a href="/about/" class="db w-100 ttu link pv2 {% if page.url == "/about/" %}active{% endif %}">About</a>
+    <a href="/projects/" class="db w-100 ttu link pv2 {% if page.url == "/projects/" %}active{% endif %}">Projects</a>
   </nav>
 </div>
 
 <div class="dn db-l ph4 pv3">
   <nav class="w-third dib pv3 mb3">
-    {% for item in site.data.navigation.main_nav %}
-      <a href="{{item.url}}" class="dib ttu link mr3 {% if item.url == page.url %}active{% endif %}">{{item.title}}</a>
-    {% endfor %}
+    <a href="/" class="ttu link mr3 {% if page.url == "/" %}active{% endif %}">Home</a>
+    <a href="/about/" class="ttu link mr3 {% if page.url == "/about/" %}active{% endif %}">About</a>
+    <a href="/projects/" class="ttu link mr3 {% if page.url == "/projects/" %}active{% endif %}">Projects</a>
   </nav>
   <div class="w-third dib tc pv3">
-    <h1 class="mv0 f2"><a href="/" class="link ttu black" alt="{{site.data.settings.site_title}}">{{site.data.settings.site_title}}</a></h1>
+    <h1 class="mv0 f3"><a href="/" class="link ttu black" alt="{{site.data.settings.site_title}}">{{site.data.settings.site_title}}</a></h1>
   </div>
 </div>
 
