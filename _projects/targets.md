@@ -15,8 +15,6 @@ works:
     image: /img/target1.jpg
     name: On Target
   - desc: |-
-      On Target 1
-
       Acrylics on panel
 
       Acryliques sur panneau
