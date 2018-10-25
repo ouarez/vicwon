@@ -19,7 +19,8 @@ collections:
       - label: "Work"
         name: "works"
         widget: "list"
+        required: false
         fields:
           - {label: Name, name: name, widget: string}
           - {label: Image, name: image, widget: image}
-          - {label: Description, name: desc, widget: markdown}
+          - {label: Description, name: desc, widget: markdown, required: false}
