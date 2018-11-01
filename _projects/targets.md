@@ -3,6 +3,7 @@ layout: project
 title: Targets
 description: Description for Google here
 cover_image: /img/targets.jpg
+order: 4
 works:
   - desc: |-
       Acrylics on panel

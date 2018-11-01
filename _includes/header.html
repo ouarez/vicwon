@@ -1,5 +1,7 @@
 <header class="w-100 w-20-l">
 
+{% assign ordered = site.projects | sort:"order" %}
+
 <div class="pv3 tc tl-l">
   <div class="w-100 db pv3">
     <h1 class="mv0 f2"><a href="/" class="link ttu black" alt="{{site.data.settings.site_title}}">{{site.data.settings.site_title}}</a></h1>
@@ -13,7 +15,7 @@
       <i class="fas fa-caret-right dib ml1"></i>
     </div>
     <div class="dn pointer" id="hidden">
-    {% for project in site.projects %}
+    {% for project in ordered %}
       <a href="{{project.url}}" class="db link mv3 ml2 {% if page.url == {{project.url}} %}active{% endif %}">{{project.title}}</a>
     {% endfor %}
     </div>

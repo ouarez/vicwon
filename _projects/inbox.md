@@ -6,6 +6,7 @@ description: >-
   the Room’. Artists were asked to step out of their comfort zone and to create
   their work(s) on site over a period of 3 days.
 cover_image: /img/inbox.jpg
+order: 1
 works:
   - desc: ''
     image: /img/inbox1.jpg

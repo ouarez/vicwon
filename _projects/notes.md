@@ -3,6 +3,7 @@ layout: project
 title: Notes
 description: Description for Notes project (Google)
 cover_image: /img/notes1.jpg
+order: 2
 works:
   - desc: |-
       Acrylics on panel

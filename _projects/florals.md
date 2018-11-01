@@ -3,6 +3,7 @@ layout: project
 title: Florals
 description: Florals description here (for Google)
 cover_image: /img/florals.jpg
+order: 3
 works:
   - desc: |-
       24 x 30" (58 x 76cm)
