@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<main class="flex flex-wrap pa3">
+<main class="w-100 w-80-l pv3 flex flex-wrap">
 
 {% for project in site.projects %}
-  <div class="w-100 w-third-l ph3-l tc pointer pv3">
+  <div class="project w-100 w-third-l ph3 tc pointer pv3">
     <a href="{{project.url}}" class="link" alt="{{project.title}}">
       <div class="thumb cover w-100 grow" style="background-image:url('{{project.cover_image}}')">
         <div class="w-100 h5">

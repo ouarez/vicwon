@@ -1,10 +1,7 @@
 ---
 ---
 // variables
-$primary-font: 'Montserrat', sans-serif;
-$alt-font: 'Merriweather', sans-serif;
-
-.alt-font {font-family:$alt-font;}
+$primary-font: 'Raleway', sans-serif;
 
 
 body {
@@ -12,7 +9,7 @@ body {
 }
 
 .container {
-  max-width:1200px;
+  max-width:1400px;
   margin-left:auto;
   margin-right:auto;
 }
@@ -20,30 +17,37 @@ body {
 header {
   nav {
     a {
-      color:#999;
-      &:hover {border-bottom:solid #999 2px;padding-bottom:2px;}
-      &.active {border-bottom:solid #ccc 2px;padding-bottom:2px;}
+      color:#333;
+      font-size:16px;
+      &:hover {color:#999;}
+      &.active {color:#aaa;}
+    }
+    i {
+      font-size:16px;
     }
   }
 
 }
 
-.thumb {
-  min-width:300px;
-  min-height:300px;
-}
+.work {
+  &:hover {background-color:#fafafa;}
+  a {text-decoration:none;}
+  .thumb-container {
+    height:350px;
+  }
 
-.shadow {
+  .thumb {
+    img {
+      max-width:300px;
+      max-height:300px;
+    }
 
-  &:hover {
-    span {display:block;}
-    background:
-       linear-gradient(
-         rgba(0, 0, 0, 0.6),
-         rgba(0, 0, 0, 0.6)
-       );
   }
 }
+
+
+
+
 
 .cover {
  background-repeat:no-repeat;

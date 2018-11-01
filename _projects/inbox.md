@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Inbox
+title: The Inbox
 description: >-
   The Inbox was designed for a thematic gallery project called the ‘Elephant in
   the Room’. Artists were asked to step out of their comfort zone and to create
@@ -31,3 +31,9 @@ works:
   - image: /img/inbox11.jpg
     name: Inbox 11
 ---
+The Inbox was designed for a thematic gallery project called the ‘Elephant in the Room’. Artists were asked to step out of their comfort zone and to create their work/s on site over a period of 3 days.
+
+My creation time was spent writing intimate and reflective stuff, ramblings, raves, prayers and questions that would never answered, it didn’t matter. At the end of the residency, I collected the 84 folded note papers that were strewn about and slipped them into the box. The box cannot be opened, the notes will never be read. This felt like a beginning.
+
+
+Gallery visitors were then encouraged to write a note for the Inbox and many did so with great sincerity.

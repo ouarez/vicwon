@@ -2,17 +2,23 @@
 layout: default
 ---
 
-<main class="flex flex-wrap pa3">
+<main class="w-100 w-80-l flex flex-wrap mv3">
 
+    <div class="w-100 lh-copy">
+      <h2 class="ttu">{{page.title}}</h2>
+      {{content}}
+    </div>
 {% for work in page.works %}
-  <div class="w-100 w-third-l ph3-l tc pointer grow pv3">
-    <a data-fancybox="gallery"
-      data-caption="<i>{{work.name}}</i><br/>{{work.desc | markdownify}}"
-      href="{{work.image}}" class="link" alt="{{work.name}}">
-      <div class="thumb cover w-100 dt" style="background-image:url('{{work.image}}')">
-        <div class="w-100 h5 pv4 shadow dtc v-mid">
-          <span class="dn white pv3 f2">{{work.name}}</span>
+  <div class="work w-100 w-third-l ph3-l tc pointer pa3 ba b--near-white mv3">
+    <a data-fancybox="gallery" data-caption="{{work.name}}" href="{{work.image}}" class="link" alt="{{work.name}}">
+      <div class="w-100 dt thumb-container">
+        <div class="dtc v-mid thumb">
+          <img src="{{work.image}}" alt="{{work.name}}"/>
         </div>
+      </div>
+      <div class="w-100 link gray f6 pv2 lh-solid">
+        <p class="b">{{work.name}}</p>
+        {{work.desc | markdownify}}
       </div>
     </a>
   </div>

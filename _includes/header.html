@@ -1,23 +1,23 @@
-<header>
+<header class="w-100 w-20-l">
 
-<div class="db dn-l tc">
-  <h1><a href="/" class="link ttu black" alt="{{site.data.settings.site_title}}">{{site.data.settings.site_title}}</a></h1>
-  <nav>
-    <a href="/" class="db w-100 ttu link pv2 {% if page.url == "/" %}active{% endif %}">Home</a>
-    <a href="/about/" class="db w-100 ttu link pv2 {% if page.url == "/about/" %}active{% endif %}">About</a>
-    <a href="/projects/" class="db w-100 ttu link pv2 {% if page.url == "/projects/" %}active{% endif %}">Projects</a>
-  </nav>
-</div>
-
-<div class="dn db-l ph4 pv3">
-  <nav class="w-third dib pv3 mb3">
-    <a href="/" class="ttu link mr3 {% if page.url == "/" %}active{% endif %}">Home</a>
-    <a href="/about/" class="ttu link mr3 {% if page.url == "/about/" %}active{% endif %}">About</a>
-    <a href="/projects/" class="ttu link mr3 {% if page.url == "/projects/" %}active{% endif %}">Projects</a>
-  </nav>
-  <div class="w-third dib tc pv3">
-    <h1 class="mv0 f3"><a href="/" class="link ttu black" alt="{{site.data.settings.site_title}}">{{site.data.settings.site_title}}</a></h1>
+<div class="pv3 tc tl-l">
+  <div class="w-100 db pv3">
+    <h1 class="mv0 f2"><a href="/" class="link ttu black" alt="{{site.data.settings.site_title}}">{{site.data.settings.site_title}}</a></h1>
   </div>
+  <nav class="w-100 db pv3">
+    {% for item in site.data.navigation.main_nav %}
+      <a href="{{item.url}}" class="db link mv3 {% if page.url == {{item.url}} %}active{% endif %}">{{item.title}}</a>
+    {% endfor %}
+    <div class="db pointer {% if page.layout == 'project' %}active{% endif %}" id="toggle">
+      <a href="#" class="dib link">Projects</a>
+      <i class="fas fa-caret-right dib ml1"></i>
+    </div>
+    <div class="dn pointer" id="hidden">
+    {% for project in site.projects %}
+      <a href="{{project.url}}" class="db link mv3 ml2 {% if page.url == {{project.url}} %}active{% endif %}">{{project.title}}</a>
+    {% endfor %}
+    </div>
+  </nav>
 </div>
 
 </header>

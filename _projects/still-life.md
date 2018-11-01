@@ -34,4 +34,24 @@ works:
       2018
     image: /img/still-life3.jpg
     name: Accomodation
+  - desc: |-
+      Acrylics on panel
+
+      Acryliques sur panneau
+
+      20 x 20”  (51x 51cm)
+
+      2018
+    image: /img/still-life4.jpg
+    name: Yellow Structure
+  - desc: |-
+      Acrylics on panel
+
+      Acryliques sur panneau
+
+      35 x 19”  (89 x 48cm)
+
+      2018
+    image: /img/still-life5.jpg
+    name: Dwelling
 ---
