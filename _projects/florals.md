@@ -3,13 +3,11 @@ layout: project
 title: Florals
 description: Florals description here (for Google)
 cover_image: /img/florals.jpg
-order: 3
 works:
   - desc: |-
       24 x 30" (58 x 76cm)
 
-      Acrylics, graphite on panel
-
+      Acrylics, graphite on panel\
       Acrylique et graphite sur panneau
 
       2015
@@ -63,8 +61,6 @@ works:
       2017
     image: /img/florals6.jpg
     name: Paper Floral 1 & 2
-
-
   - desc: |-
       Acrylics and graphite on panel
 
@@ -126,3 +122,4 @@ works:
     image: /img/florals12.jpg
     name: Pop Bouquet
 ---
+
