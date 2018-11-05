@@ -122,4 +122,3 @@ works:
     image: /img/florals12.jpg
     name: Pop Bouquet
 ---
-
