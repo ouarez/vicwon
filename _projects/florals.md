@@ -7,8 +7,7 @@ works:
   - desc: |-
       24 x 30" (58 x 76cm)
 
-      Acrylics, graphite on panel\
-      Acrylique et graphite sur panneau
+      Acrylics, graphite on panel  Acrylique et graphite sur panneau
 
       2015
     image: /img/florals1.jpg
