@@ -6,8 +6,7 @@ cover_image: /img/notes1.jpg
 order: 2
 works:
   - desc: |-
-      Acrylics on panel
-
+      Acrylics on panel  
       Acryliques sur panneau
 
       13 x 9 1/4" (33 x 23.5cm)
