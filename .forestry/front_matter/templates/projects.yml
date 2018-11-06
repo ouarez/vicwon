@@ -27,6 +27,18 @@ fields:
     maxSize: '2'
 - type: field_group_list
   fields:
+  - type: text
+    label: Title
+    name: name
+    description: Title of the work
+    config:
+      required: true
+  - type: file
+    name: image
+    label: Image
+    config:
+      maxSize: '2'
+    description: Image of the work
   - type: textarea
     name: description
     label: Description
@@ -36,17 +48,5 @@ fields:
       schema:
         format: markdown
     description: This text appears under the work
-  - type: file
-    name: image
-    label: Image
-    config:
-      maxSize: '2'
-    description: Image of the work
-  - type: text
-    label: Title
-    name: name
-    description: Title of the work
-    config:
-      required: true
 pages:
 - "./_projects/_projects/test.md"
