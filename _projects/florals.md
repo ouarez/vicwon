@@ -4,9 +4,6 @@ title: Florals
 description: Florals description here (for Google)
 cover_image: "/img/florals.jpg"
 works:
-- desc: test
-  image: test
-  name: test
 - desc: |-
     24 x 30" (58 x 76cm)
 
