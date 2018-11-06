@@ -48,5 +48,3 @@ fields:
     description: Title of the work
     config:
       required: true
-pages:
-- "./_projects/_projects/test.md"
