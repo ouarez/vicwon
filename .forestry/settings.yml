@@ -17,8 +17,8 @@ sections:
   match: "*"
   templates:
   - projects
-upload_dir: img
-public_path: "/img"
-front_matter_path: "/img"
-use_front_matter_path: true
-file_template: 'img/:filename:'
+upload_dir: uploads
+public_path: "/uploads"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: 'uploads/:filename:'
