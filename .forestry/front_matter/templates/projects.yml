@@ -1,0 +1,50 @@
+---
+label: Projects
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Layout
+  name: layout
+  hidden: true
+  config:
+    required: true
+  default: project
+- type: text
+  label: Project Title
+  name: title
+  config:
+    required: true
+- type: text
+  label: Description
+  name: description
+  description: Short page description - will appear in Google Search results
+- type: file
+  label: Cover Image
+  name: cover_image
+  description: Cover Image for the project
+  config:
+    maxSize: '2'
+- type: field_group_list
+  fields:
+  - type: textarea
+    name: description
+    label: Description
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    description: This text appears under the work
+  - type: file
+    name: image
+    label: Image
+    config:
+      maxSize: '2'
+    description: Image of the work
+  - type: text
+    label: Title
+    name: name
+    description: Title of the work
+    config:
+      required: true
