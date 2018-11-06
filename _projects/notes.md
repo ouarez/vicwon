@@ -5,6 +5,25 @@ date: 2018-11-06 23:17:23 +0000
 description: ''
 cover_image: "/assets/notes.jpg"
 works:
+- name: Red Notes
+  image: "/assets/red-notes.jpg"
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n13 x 9 1/4” (33 x 23.5cm)\n\n2013"
+- name: Red
+  image: "/assets/red.jpg"
+  description: "Acrylics and resin on panel  \nAcryliques et résines sur panneau\n\n24
+    x 20” (61 x 51cm)\n\n2013"
+- name: Yellow Notes
+  image: "/assets/yellow-notes.jpg"
+  description: "Acrylics on canvas  \nAcrylique sur toile\n\n30 x 24” (76 x 61cm)\n\n2013"
+- name: Blackball
+  image: "/assets/blackball.jpg"
+  description: "Acrylics on canvas  \nAcryliques sur toile\n\n10 x 8” (25.4 x 20.3cm)\n\n2013"
+- name: Black Note
+  image: "/assets/black-note.jpg"
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n18 x 18” (45.7 x 45.7cm)\n\n2013"
+- name: Black on Black
+  image: "/assets/black-on-black.jpg"
+  description: "Paper on panel  \nPapier sur panneau\n\n18 x 18” (45.7 x 45.7 cm)\n\n2014"
 - name: Notes on Black
   image: "/assets/notes-on-black.jpg"
   description: "Acrylics on canvas  \nAcryliques sur toile\n\n30 x 36” (76 x 91cm)\n\n2014"
