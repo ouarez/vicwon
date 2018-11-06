@@ -24,5 +24,17 @@ works:
 - name: Floral Still Life
   image: "/assets/floral-still-life.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n23 x 11” (58.5 x 28cm)\n\n2016"
+- name: Paper Florals 1 & 2
+  image: "/assets/paper-floral-1-2.jpg"
+  description: "Acrylics and graphite on panel  \nAcryliques et graphite sur panneau\n\n24
+    x 12” (61 x 30.5cm)\n\n2017"
+- name: Paper Floral 1
+  image: "/assets/paper-floral-1.jpg"
+  description: "Acrylics and graphite on panel  \nAcryliques et graphite sur panneau\n\n24
+    x 12” (61 x 30.5cm)\n\n2017"
+- name: Paper Floral 2
+  image: "/assets/paper-floral-2.jpg"
+  description: "Acrylics and graphite on panel  \nAcryliques et graphite sur panneau\n\n24
+    x 12” (61 x 30.5cm)\n\n2017"
 
 ---
