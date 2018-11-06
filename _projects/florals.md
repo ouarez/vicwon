@@ -4,7 +4,7 @@ layout: project
 date: 2018-11-06 00:25:31 +0000
 description: Description for Florals
 cover_image: "/img/img/flower-power.jpg"
-undefined:
+works:
 - name: The Orator
   image: "/img/florals2.jpg"
   description: "Acrylics and graphite on panel  \nAcryliques et graphite sur panneau\n\n18
