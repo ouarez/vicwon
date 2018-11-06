@@ -48,5 +48,3 @@ fields:
       schema:
         format: markdown
     description: This text appears under the work
-pages:
-- "./_projects/_projects/test.md"
