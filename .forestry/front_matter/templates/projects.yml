@@ -53,6 +53,3 @@ fields:
   description: Add work to the project
   config:
     labelField: name
-pages:
-- "./_projects/florals.md"
-- "./_projects/the-inbox.md"
