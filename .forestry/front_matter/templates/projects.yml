@@ -48,5 +48,10 @@ fields:
       schema:
         format: markdown
     description: This text appears under the work
+  label: Works
+  name: works
+  description: Add work to the project
+  config:
+    labelField: name
 pages:
 - "./_projects/florals.md"
