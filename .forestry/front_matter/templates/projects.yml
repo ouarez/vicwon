@@ -54,5 +54,6 @@ fields:
   config:
     labelField: name
 pages:
+- _projects/notes.md
 - _projects/the-inbox.md
 - _projects/florals.md
