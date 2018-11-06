@@ -6,6 +6,12 @@ description: ''
 cover_image: "/assets/the-inbox.jpg"
 works:
 - name: Something, Something, Something Exhibition
+  image: "/assets/something1.jpg"
+  description: Montréal, Québec 2014
+- name: Something, Something, Something Exhibition
+  image: "/assets/something2.jpg"
+  description: Montréal, Québec 2014
+- name: Something, Something, Something Exhibition
   image: "/assets/something3.jpg"
   description: Montréal, Québec 2014
 
