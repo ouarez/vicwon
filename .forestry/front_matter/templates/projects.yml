@@ -54,4 +54,4 @@ fields:
   config:
     labelField: name
 pages:
-- "./_projects/florals.md"
+- "./_projects/test.md"
