@@ -53,3 +53,5 @@ fields:
   description: Add work to the project
   config:
     labelField: name
+pages:
+- "./_projects/_projects/florals.md"
