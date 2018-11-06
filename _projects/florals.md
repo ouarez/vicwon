@@ -120,15 +120,4 @@ works:
     Acryliques sur panneau
 
     30 x 30” (76 x76cm)
-
-<<<<<<< HEAD
-      2018
-    image: /img/florals12.jpg
-    name: Pop Bouquet
-=======
-    2018
-  image: "/img/florals12.jpg"
-  name: Pop Bouquet
-
->>>>>>> dd2947909f6ffaf9d23a04e2a22d52c82d1fcbb6
 ---
