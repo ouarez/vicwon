@@ -15,6 +15,5 @@ undefined:
     12 x 12”  (30.5 x 30.5cm)
 
     2018
-published: false
 
 ---
