@@ -48,3 +48,5 @@ fields:
       schema:
         format: markdown
     description: This text appears under the work
+pages:
+- "./_projects/florals.md"
