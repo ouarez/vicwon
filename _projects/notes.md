@@ -5,6 +5,15 @@ date: 2018-11-06 23:17:23 +0000
 description: ''
 cover_image: "/assets/notes.jpg"
 works:
+- name: Notes on Black
+  image: "/assets/notes-on-black.jpg"
+  description: "Acrylics on canvas  \nAcryliques sur toile\n\n30 x 36” (76 x 91cm)\n\n2014"
+- name: Blue
+  image: "/assets/blue.jpg"
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n20 x 16” (50.8 x 40.6cm)\n\n2013"
+- name: Out The Window
+  image: "/assets/out-the-window.jpg"
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n20 x 16” (50.8 x 40.6cm)\n\n2013"
 - name: Blue Notes
   image: "/assets/blue-notes.jpg"
   description: "Acrylics on canvas  \nAcryliques sur toile\n\n24 x 36” (61 x 91cm)\n\n2014"
@@ -35,6 +44,5 @@ works:
 - name: Bloc Party
   image: "/assets/bloc-party.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n2015"
-published: false
 
 ---
