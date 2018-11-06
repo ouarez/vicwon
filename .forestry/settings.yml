@@ -14,7 +14,9 @@ sections:
   path: "./_projects"
   label: Projects
   create: documents
-  match: "**/*"
+  match: "*"
+  templates:
+  - projects
 upload_dir: img
 public_path: "/img"
 front_matter_path: "/img"
