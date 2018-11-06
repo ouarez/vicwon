@@ -15,4 +15,3 @@ works:
     graphite sur panneau\n\n2015"
 
 ---
-Test
