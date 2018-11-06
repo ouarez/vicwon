@@ -5,6 +5,10 @@ date: 2018-11-06 22:52:29 +0000
 description: ''
 cover_image: "/assets/the-inbox.jpg"
 works:
+- name: Vernissage
+  image: "/assets/vernissage3.jpg"
+  description: "The Elephant in the Room  \nL’éléphant dans la chambre\n\nGalerie
+    de la Ville, DDO, Quebec\n\n2013"
 - name: Something, Something, Something Exhibition
   image: "/assets/something1.jpg"
   description: Montréal, Québec 2014
