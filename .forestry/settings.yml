@@ -15,6 +15,7 @@ sections:
   label: Pages
   create: documents
   templates:
+  - contact
   - about
   - home
 upload_dir: assets
