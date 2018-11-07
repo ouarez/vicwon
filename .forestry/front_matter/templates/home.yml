@@ -1,0 +1,28 @@
+---
+label: Home
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Layout
+  name: layout
+  hidden: true
+  config:
+    required: true
+  default: home
+- type: text
+  default: Home
+  label: Page title
+  name: title
+  config:
+    required: true
+- type: textarea
+  name: description
+  label: Description
+  description: Page description that will appear in Google search results
+  config:
+    wysiwyg: false
+    schema:
+      format: markdown
+pages:
+- "./index.md"
