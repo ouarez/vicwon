@@ -7,7 +7,7 @@
     <h1 class="mv0 f3"><a href="/" class="link ttu black" alt="{{site.data.settings.site_title}}">{{site.data.settings.site_title}}</a></h1>
   </div>
   <nav class="w-100 db pv3">
-    {% for item in site.data.navigation.main_nav %}
+    {% for item in site.menus.main %}
       <a href="{{item.url}}" class="db link mv3 {% if page.url == {{item.url}} %}active{% endif %}">{{item.title}}</a>
     {% endfor %}
     <div class="db pointer {% if page.layout == 'project' %}active{% endif %}" id="toggle">
