@@ -1,12 +1,9 @@
 ---
-header:
-  - url: /api
-    title: API Documentation
-    identifier: api
-  - url: /api
-    title: API Documentation
-    identifier: api
-  - url: /api
-    title: API Documentation
-    identifier: api
+main:
+  - url: /
+    title: Home
+    identifier: home
+  - url: /about
+    title: About
+    identifier: about
 ---
