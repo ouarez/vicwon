@@ -1,8 +1,8 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
-webhook_url: 
+admin_path:
+webhook_url:
 sections:
 - type: directory
   path: _projects
@@ -15,7 +15,6 @@ sections:
   label: Pages
   create: documents
   templates:
-  - contact
   - about
   - home
 upload_dir: assets
