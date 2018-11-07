@@ -1,25 +1,31 @@
-<header class="w-100 w-20-l">
+<header class="pa4 pa5-l bb br-l b--light-gray vh-100-l">
 
 {% assign ordered = site.projects | sort:"order" %}
 
-<div class="pv3 tc tl-l">
+<div class="pv3 tc tl-l vh-75-l">
   <div class="w-100 db pv3">
     <h1 class="mv0 f3"><a href="/" class="link ttu black" alt="{{site.data.settings.site_title}}">{{site.data.settings.site_title}}</a></h1>
   </div>
   <nav class="w-100 db pv3">
     {% for item in site.menus.main %}
-      <a href="{{item.url}}" class="db link mv3 {% if page.url == {{item.url}} %}active{% endif %}">{{item.title}}</a>
+      <a href="{{item.url}}" class="db link mv3 ttu ttc-l {% if page.url == {{item.url}} %}active{% endif %}">{{item.title}}</a>
     {% endfor %}
     <div class="db pointer {% if page.layout == 'project' %}active{% endif %}" id="toggle">
-      <a href="#" class="dib link">Projects</a>
+      <a href="#" class="dib link ttu ttc-l ml3 ml0-l">Projects</a>
       <i class="fas fa-caret-right dib ml1"></i>
     </div>
     <div class="dn pointer" id="hidden">
     {% for project in ordered %}
-      <a href="{{project.url}}" class="db link mv3 ml2 {% if page.url == {{project.url}} %}active{% endif %}">{{project.title}}</a>
+      <a href="{{project.url}}" class="db link mv3 ml2 ttu ttc-l {% if page.url == {{project.url}} %}active{% endif %}">{{project.title}}</a>
     {% endfor %}
     </div>
   </nav>
+</div>
+
+<div class="social w-100">
+  <i class="fab fa-instagram f3 ml1 mr2"></i>
+  <i class="fab fa-facebook f3 mr2"></i>
+  <button class="input-reset db br2 ph3 pv2 ba b--gray bg-black white mt3">Contact</button>
 </div>
 
 </header>

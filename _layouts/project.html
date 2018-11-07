@@ -2,14 +2,13 @@
 layout: default
 ---
 
-<main class="w-100 w-80-l flex flex-wrap mv3">
-
-    <div class="w-100 lh-copy">
-      <h2 class="ttu tc mr3">{{page.title}}</h2>
+  <div class="w-100 lh-copy">
+    <h2 class="ttu tc mr3">{{page.title}}</h2>
       {{content}}
-    </div>
+  </div>
+
 {% for work in page.works %}
-  <div class="work w-100 w-third-l ph3-l tc pointer pa3 ba b--near-white mv3">
+  <div class="work w-100 w-third-l tc pointer pa3 mv3">
     <a data-fancybox="gallery" data-caption="{{work.name}}" href="{{work.image}}" class="link" alt="{{work.name}}">
       <div class="w-100 dt thumb-container">
         <div class="dtc v-mid thumb">
@@ -23,5 +22,3 @@ layout: default
     </a>
   </div>
 {% endfor %}
-
-</main> <!-- end main -->

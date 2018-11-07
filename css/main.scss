@@ -14,7 +14,10 @@ body {
   margin-right:auto;
 }
 
+
 header {
+  z-index:999999;
+  width:100%;
   nav {
     a {
       color:#333;
@@ -29,16 +32,23 @@ header {
 
 }
 
+@media screen and (min-width: 60em) {
+  header {width:300px;position:fixed;}
+}
+
 .work {
-  &:hover {background-color:#fafafa;}
+
+  &:hover {background-color:#f5f5f5;}
   a {text-decoration:none;}
   .thumb-container {
     height:350px;
   }
 
   .thumb {
+    overflow:hidden;
+    max-width:300px;
+    max-height:300px;
     img {
-      max-width:300px;
       max-height:300px;
     }
 

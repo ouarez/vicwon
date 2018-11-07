@@ -2,9 +2,11 @@
 layout: default
 ---
 
-{% assign ordered = site.projects | sort:"order" %}
+  <div class="w-100 lh-copy">
+    <h2 class="ttu tc mr3">Projects</h2>
+  </div>
 
-<main class="w-100 w-80-l pv3 flex flex-wrap">
+{% assign ordered = site.projects | sort:"order" %}
 
 {% for project in ordered %}
   <div class="project w-100 w-third-l ph3 tc pointer pv3">
@@ -17,7 +19,3 @@ layout: default
     </a>
   </div>
 {% endfor %}
-
-
-
-</main> <!-- end main -->
