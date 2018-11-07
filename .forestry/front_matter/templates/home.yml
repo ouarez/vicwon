@@ -25,4 +25,4 @@ fields:
     schema:
       format: markdown
 pages:
-- "./home.md"
+- index.md
