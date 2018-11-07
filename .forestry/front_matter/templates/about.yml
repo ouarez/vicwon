@@ -1,0 +1,32 @@
+---
+label: About
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Layout
+  name: layout
+  hidden: true
+  config:
+    required: true
+  default: about
+- type: text
+  default: About
+  label: Page title
+  name: title
+  config:
+    required: true
+- type: textarea
+  name: description
+  label: Description
+  description: Page description that will appear in Google search results
+  config:
+    wysiwyg: false
+    schema:
+      format: markdown
+- type: file
+  name: bio_image
+  label: Picture
+  description: Image for the about page
+  config:
+    maxSize: '2'
