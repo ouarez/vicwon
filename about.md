@@ -5,6 +5,10 @@ date: 2018-11-07 00:18:05 +0000
 description: VICWON is a new online portfolio of Victoria Wonnacott’s artworks starting
   from 2013, a pivotal year in her art practice.
 bio_image: "/assets/victoria-wonnacott.jpg"
+menu:
+  main:
+    identifier: about
+    weight: 2
 
 ---
 VICWON is a new online portfolio of Victoria Wonnacott’s artworks starting from 2013, a pivotal year in her art practice.
