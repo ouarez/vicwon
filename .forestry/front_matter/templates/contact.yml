@@ -1,0 +1,26 @@
+---
+label: Contact
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Layout
+  name: contact
+  hidden: true
+  config:
+    required: true
+  default: contact
+- type: text
+  default: Contact
+  label: Page title
+  name: title
+  config:
+    required: true
+- type: textarea
+  name: description
+  label: Description
+  description: Page description that will appear in Google search results
+  config:
+    wysiwyg: false
+    schema:
+      format: markdown
