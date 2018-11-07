@@ -11,9 +11,12 @@ sections:
   match: "*"
   templates:
   - projects
-- type: document
-  path: about.md
-  label: About Page
+- type: jekyll-pages
+  label: Pages
+  create: documents
+  match: "**/*"
+  templates:
+  - about
 upload_dir: assets
 public_path: "/assets"
 front_matter_path: ''
