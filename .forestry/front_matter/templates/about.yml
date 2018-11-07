@@ -30,5 +30,3 @@ fields:
   description: Image for the about page
   config:
     maxSize: '2'
-pages:
-- "./about.md"

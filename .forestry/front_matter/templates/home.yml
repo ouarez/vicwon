@@ -24,5 +24,3 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-pages:
-- "./index.md"
