@@ -9,7 +9,7 @@ bio_image: "/assets/victoria-wonnacott.jpg"
 ---
 VICWON is a new online portfolio of Victoria Wonnacott’s artworks starting from 2013, a pivotal year in her art practice.
 
-To view earlier works please visit [archive.vicwon.com](archive.vicwon.com "archive.vicwon.com")
+To view earlier works please visit [archive.vicwon.com](archive.vicwon.com "archive.vicwon.com").
 
 Wonnacott’s current direction in painting merges an intimate realism with an abstract edge. The ‘Notes’ paintings serve as still life works, where the yellow notepapers have been manipulated and cast in many roles and forms.
 
