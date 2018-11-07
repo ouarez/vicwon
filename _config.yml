@@ -43,6 +43,7 @@ unpublished: false
 whitelist: []
 plugins:
   - jekyll-feed
+  - jekyll-menus
 
 # Conversion
 markdown:    kramdown

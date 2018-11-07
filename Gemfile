@@ -18,4 +18,5 @@ gem "jekyll", "~> 3.8.3"
 group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-livereload'
+  gem "jekyll-menus" # Forestry Menus
 end
