@@ -2,20 +2,22 @@
 layout: default
 ---
 
-  <div class="w-100 lh-copy">
-    <h2 class="ttu tc mr3">Projects</h2>
+<main class="flex flex-wrap ml7-l pl4-l">
+
+  {% assign ordered = site.projects | sort:"order" %}
+
+  <div class="w-100">
+    <div class="slider">
+      {% for project in ordered %}
+          <div class="image tc dt" style="background-image:url('{{project.cover_image}}')">
+            <div class="dtc v-mid pointer">
+              <a class="link" href="{{project.url}}" alt="{{project.title}}">
+                <span class="pv2 ph3 bg-black white ttu f3 f1-l mono">{{project.title}}</span>
+              </a>
+            </div>
+          </div>
+      {% endfor %}
+    </div>
   </div>
 
-{% assign ordered = site.projects | sort:"order" %}
-
-{% for project in ordered %}
-  <div class="project w-100 w-third-l ph3 tc pointer pv3">
-    <a href="{{project.url}}" class="link" alt="{{project.title}}">
-      <div class="thumb cover w-100 grow" style="background-image:url('{{project.cover_image}}')">
-        <div class="w-100 h5">
-        </div>
-      </div>
-      <span class="ttu gray tracked pv3 db">{{project.title}}</span>
-    </a>
-  </div>
-{% endfor %}
+</main>

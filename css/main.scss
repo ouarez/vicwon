@@ -2,14 +2,17 @@
 ---
 // variables
 $primary-font: 'Raleway', sans-serif;
+$mono: 'Cutive Mono', monospace;
 
+.mono {font-family:$mono;}
 
 body {
   font-family:$primary-font;
+  font-size:14px;
 }
 
 .container {
-  max-width:1200px;
+  max-width:800px;
   margin-left:auto;
   margin-right:auto;
 }
@@ -20,10 +23,10 @@ header {
   width:100%;
   nav {
     a {
-      color:#333;
+      color:#ccc;
       font-size:16px;
       &:hover {color:#999;}
-      &.active {color:#aaa;}
+      &.active {color:#fff;border-bottom:solid white 2px;}
     }
     i {
       font-size:16px;
@@ -55,12 +58,24 @@ header {
   }
 }
 
+.bx-wrapper {
+  margin:0;
+  box-shadow:none;
+  border:none;
+}
 
+.slider {
+    div {
+      height:100vh;
+      background-repeat:no-repeat;
+      background-size: cover;
+      background-position:center center;
+    }
+    a {padding:400px;}
+}
 
-
-
-.cover {
- background-repeat:no-repeat;
- background-size: cover;
- background-position:center center;
+.social {
+  button {
+    &:hover {background-color:white;color:black;}
+  }
 }
