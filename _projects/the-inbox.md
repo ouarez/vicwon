@@ -4,6 +4,7 @@ layout: project
 date: 2018-11-06 22:52:29 +0000
 description: ''
 cover_image: "/assets/the-inbox.jpg"
+order: 1
 works:
 - name: Vernissage
   image: "/assets/vernissage.jpg"
@@ -16,7 +17,8 @@ works:
 
     18” / 46cm
 
-    Fabricated by Louie Barrett
+    Fabricated by Louie Barrett  
+    Fabriqué par Louie Barrett
 - name: Occupation
   image: "/assets/occupation.jpg"
   description: "The Elephant in the Room  \nL’éléphant dans la chambre\n\nGalerie
@@ -52,3 +54,11 @@ works:
   description: Montréal, Québec 2014
 
 ---
+
+The Inbox was designed for a thematic gallery project called the ‘Elephant in the Room’.
+
+Artists were asked to step out of their comfort zone and to create their work/s on site over a period of 3 days.
+
+My creation time was spent writing intimate and reflective stuff, ramblings, raves, prayers and questions that would never be answered, it didn’t matter. At the end of the residency, I collected the 84 folded note papers that were strewn about and slipped them into the box.
+
+The box cannot be opened, the notes will never be read. This felt like a new beginning. Gallery visitors were then encouraged to write a note for the InBox and many did so with great sincerity.

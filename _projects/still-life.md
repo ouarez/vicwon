@@ -4,6 +4,7 @@ layout: project
 date: 2018-11-07 00:03:26 +0000
 description: ''
 cover_image: "/assets/good-fortune.jpg"
+order: 5
 works:
 - name: Good Fortune
   image: "/assets/good-fortune.jpg"

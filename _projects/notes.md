@@ -4,6 +4,7 @@ layout: project
 date: 2018-11-06 23:17:23 +0000
 description: ''
 cover_image: "/assets/notes.jpg"
+order: 2
 works:
 - name: Red Notes
   image: "/assets/red-notes.jpg"
@@ -14,7 +15,7 @@ works:
     x 20” (61 x 51cm)\n\n2013"
 - name: Yellow Notes
   image: "/assets/yellow-notes.jpg"
-  description: "Acrylics on canvas  \nAcrylique sur toile\n\n30 x 24” (76 x 61cm)\n\n2013"
+  description: "Acrylics on canvas  \nAcryliques sur toile\n\n30 x 24” (76 x 61cm)\n\n2013"
 - name: Blackball
   image: "/assets/blackball.jpg"
   description: "Acrylics on canvas  \nAcryliques sur toile\n\n10 x 8” (25.4 x 20.3cm)\n\n2013"
@@ -47,12 +48,7 @@ works:
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n18 x 18”  (46 x 46cm)\n\n2015"
 - name: Paper Borduas
   image: "/assets/paper-borduas.jpg"
-  description: |-
-    Paper and velvet on panel
-
-    33 x 23” (84 x 58cm)
-
-    2016
+  description: "Paper and velvet on panel  \npapier et velours sur panneau \n\n 33 x 23” (84 x 58cm) \n\n2016"
 - name: Speechless
   image: "/assets/speechless.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n18 x 18”  (46 x 46

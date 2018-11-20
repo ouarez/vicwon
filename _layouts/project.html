@@ -4,9 +4,11 @@ layout: default
 
 <main class="flex flex-wrap pt3 pt5-l ph3 pl5-l pr4-l ml7-l">
 
-  <div class="w-100 lh-copy">
-    <h2 class="ttu tc mr3 f3 f2-l mv2">{{page.title}}</h2>
-      {{content}}
+  <div class="w-100">
+    <h2 class="ttu tc mr3 f3 f2-l mv4">{{page.title}}</h2>
+      <div class="w-100 w-50-l ml-auto mr-auto f5 lh-copy">
+        {{content}}
+      </div>
   </div>
 
 {% for work in page.works %}

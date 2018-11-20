@@ -4,6 +4,7 @@ layout: project
 date: 2018-11-06 22:35:36 +0000
 description: ''
 cover_image: "/assets/flower-power.jpg"
+order: 3
 works:
 - name: The Orator
   image: "/assets/the-orator.jpg"

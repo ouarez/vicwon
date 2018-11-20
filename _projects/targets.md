@@ -4,6 +4,7 @@ layout: project
 date: 2018-11-06 23:48:34 +0000
 description: ''
 cover_image: "/assets/target1.jpg"
+order: 4
 works:
 - name: On Target
   image: "/assets/target1.jpg"
