@@ -6,18 +6,17 @@ layout: default
 
   {% assign ordered = site.projects | sort:"order" %}
 
-  <div class="w-100">
-    <div class="slider">
-      {% for project in ordered %}
-          <div class="image tc dt" style="background-image:url('{{project.cover_image}}')">
-            <div class="dtc v-mid pointer">
-              <a class="link" href="{{project.url}}" alt="{{project.title}}">
-                <span class="pv2 ph3 bg-black white ttu f3 f1-l mono">{{project.title}}</span>
-              </a>
-            </div>
-          </div>
-      {% endfor %}
+  {% for project in ordered %}
+    <div class="w-100 w-third-l tc pointer pa2">
+      <a href="{{project.url}}" class="link" alt="{{project.title}}">
+        <div class="home ml-auto mr-auto">
+          <img src="{{project.cover_image}}" alt="{{project.title}}"/>
+        </div>
+        <div class="w-100 link gray f6 pv2 lh-copy">
+          <h3 class="ttu">{{project.title}}</h3>
+        </div>
+      </a>
     </div>
-  </div>
+  {% endfor %}
 
 </main>

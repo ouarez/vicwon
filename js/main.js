@@ -1,9 +1,4 @@
 $(function() {
-
-$('.slider').bxSlider({
-  pager: false
-});
-
   $("#toggle").click(function() {
     if ($("#hidden").is(":hidden")) {
       $("#hidden").slideDown();
