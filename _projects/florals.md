@@ -46,6 +46,9 @@ works:
 - name: Pop Bouquet
   image: "/assets/pop-bouquet.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n30 x 30” (76 x76cm)\n\n2018"
+- name: Bouquet
+  image: "/assets/bouquet.jpg"
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n40x26” (102x66cm)\n\n2018"
 - name: Flower Power
   image: "/assets/flower-power.jpg"
   description: "Acrylics on canvas  \nAcryliques sur toile\n\n66” (168cm)\n\n2018"

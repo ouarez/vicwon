@@ -19,6 +19,8 @@ works:
 
     Fabricated by Louie Barrett  
     Fabriqué par Louie Barrett
+
+    2013
 - name: Occupation
   image: "/assets/occupation.jpg"
   description: "The Elephant in the Room  \nL’éléphant dans la chambre\n\nGalerie
