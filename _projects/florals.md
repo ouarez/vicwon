@@ -8,7 +8,7 @@ order: 3
 works:
 - name: I made it for you
   image: "/assets/made-it-for-you.jpg"
-  description: "Acrylics on panel  \nAcryliques sur panneau\n\n10 x 12” (25 x 31cm)\n\n2019"
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n12x14” (30.5x35.5cm)\n\n2019"
 - name: Flower Box
   image: "/assets/flower-box.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n10 x 10” (25 x 25cm)\n\n2019"
