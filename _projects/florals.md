@@ -6,6 +6,16 @@ description: ''
 cover_image: "/assets/flower-power.jpg"
 order: 3
 works:
+- name: Flower Box
+  image: "/assets/flower-box.jpg"
+  description: |-
+    Acrylics on panel
+
+    Acryliques sur panneau
+
+    10 x 10” (25 x 25cm)
+
+    2019
 - name: Pink Cameo
   image: "/assets/pink-cameo.jpg"
   description: |-
