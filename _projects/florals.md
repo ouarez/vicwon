@@ -1,11 +1,21 @@
 ---
 title: Florals
 layout: project
-date: 2018-11-06 22:35:36 +0000
+date: '2018-11-06T22:35:36.000+00:00'
 description: ''
 cover_image: "/assets/flower-power.jpg"
 order: 3
 works:
+- name: Pink Cameo
+  image: "/assets/pink-cameo.jpg"
+  description: |-
+    Acrylics on panel
+
+    Acryliques sur panneau
+
+    24 x 20” (61 x 51cm)
+
+    2019
 - name: The Orator
   image: "/assets/the-orator.jpg"
   description: "Acrylics and graphite on panel  \nAcryliques et graphite sur panneau\n\n18
