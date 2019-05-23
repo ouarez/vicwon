@@ -1,5 +1,5 @@
 ---
-label: About
+label: Contact
 hide_body: false
 fields:
 - type: text
@@ -8,9 +8,9 @@ fields:
   hidden: true
   config:
     required: true
-  default: about
+  default: contact
 - type: text
-  default: About
+  default: Contact
   label: Page title
   name: title
   config:
@@ -23,9 +23,3 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-- type: file
-  name: bio_image
-  label: Picture
-  description: Image for the about page
-  config:
-    maxSize: '2'
