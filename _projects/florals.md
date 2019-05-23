@@ -11,14 +11,7 @@ works:
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n10 x 10” (25 x 25cm)\n\n2019"
 - name: Pink Cameo
   image: "/assets/pink-cameo.jpg"
-  description: |-
-    Acrylics on panel
-
-    Acryliques sur panneau
-
-    24 x 20” (61 x 51cm)
-
-    2019
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n24 x 20” (61 x 51cm)\n\n2019"
 - name: The Orator
   image: "/assets/the-orator.jpg"
   description: "Acrylics and graphite on panel  \nAcryliques et graphite sur panneau\n\n18
