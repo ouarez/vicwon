@@ -1,7 +1,7 @@
 ---
 title: The InBox
 layout: project
-date: 2018-11-06 22:52:29 +0000
+date: '2018-11-06T22:52:29.000+00:00'
 description: ''
 cover_image: "/assets/the-inbox.jpg"
 order: 1
@@ -12,15 +12,8 @@ works:
     de la Ville, DDO, Quebec\n\n2013"
 - name: The InBox
   image: "/assets/the-inbox.jpg"
-  description: |-
-    Steel / Acier
-
-    18” / 46cm
-
-    Fabricated by Louie Barrett  
-    Fabriqué par Louie Barrett
-
-    2013
+  description: "Steel / Acier\n\n18” / 46cm\n\nFabricated by Louie Barrett  \nFabriqué
+    par Louie Barrett\n\n2013"
 - name: Occupation
   image: "/assets/occupation.jpg"
   description: "The Elephant in the Room  \nL’éléphant dans la chambre\n\nGalerie
@@ -56,11 +49,10 @@ works:
   description: Montréal, Québec 2014
 
 ---
-
 The Inbox was designed for a thematic gallery project called the ‘Elephant in the Room’.
 
 Artists were asked to step out of their comfort zone and to create their work/s on site over a period of 3 days.
 
-My creation time was spent writing intimate and reflective stuff, ramblings, raves, prayers and questions that would never be answered, it didn’t matter. At the end of the residency, I collected the 84 folded note papers that were strewn about and slipped them into the box.
+My creation time was spent writing intimate and reflective stuff, ramblings, raves, prayers and questions that would never be answered, it didn’t matter. At the end of the residency, I collected the 84 folded note papers that were strewn about and slipped them into the box. Gallery visitors were then encouraged to write a note for the InBox and many did so with great sincerity. The box cannot be opened, the notes will never be read. 
 
-The box cannot be opened, the notes will never be read. This felt like a new beginning. Gallery visitors were then encouraged to write a note for the InBox and many did so with great sincerity.
+This felt like a new beginning. 
