@@ -8,7 +8,7 @@ order: 3
 works:
 - name: The Celebration
   image: "/assets/TheCelebration.jpg"
-  description: "Acrylics on canvas   \nAcrylique sur toile\n\n44x36\" (112x91cm)\n\n2019"
+  description: "Acrylics on canvas  \nAcryliques sur toile\n\n44x36\" (112x91cm)\n\n2019"
 - name: I made it for you
   image: "/assets/made-it-for-you.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n12x14” (30.5x35.5cm)\n\n2019"
