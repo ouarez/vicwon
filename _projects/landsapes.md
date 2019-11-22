@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Landsapes
+title: Landscapes
 description: ''
 cover_image: "/assets/sunshower2-2.jpg"
 works:
