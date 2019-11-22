@@ -1,7 +1,7 @@
 ---
-title: Still Life
+title: Structure
 layout: project
-date: 2018-11-07 00:03:26 +0000
+date: '2018-11-07T00:03:26.000+00:00'
 description: ''
 cover_image: "/assets/good-fortune.jpg"
 order: 5
