@@ -6,6 +6,9 @@ description: ''
 cover_image: "/assets/flower-power.jpg"
 order: 3
 works:
+- name: Tuxedo Night
+  image: "/assets/tuxedonightsmaryet.jpg"
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n25 x 38” (63.5 x 96.5cm)\n\n2019"
 - name: The Celebration
   image: "/assets/TheCelebration1.jpg"
   description: "Acrylics on canvas  \nAcryliques sur toile\n\n44x36\" (112x91cm)\n\n2019"
