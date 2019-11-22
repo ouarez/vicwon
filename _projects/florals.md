@@ -6,12 +6,12 @@ description: ''
 cover_image: "/assets/flower-power.jpg"
 order: 3
 works:
-- name: Primary Posies
-  image: "/assets/primaryposiesvpw2019.jpg"
-  description: "Acrylics on canvas  \nAcryliques sur toile\n\n24x20\" (61x51cm)\n\n2019"
 - name: The Celebration
   image: "/assets/TheCelebration1.jpg"
   description: "Acrylics on canvas  \nAcryliques sur toile\n\n44x36\" (112x91cm)\n\n2019"
+- name: Primary Posies
+  image: "/assets/primaryposiesvpw2019.jpg"
+  description: "Acrylics on canvas  \nAcryliques sur toile\n\n24x20\" (61x51cm)\n\n2019"
 - name: I made it for you
   image: "/assets/made-it-for-you.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n12x14” (30.5x35.5cm)\n\n2019"
