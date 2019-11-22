@@ -53,6 +53,7 @@ fields:
   config:
     labelField: name
 pages:
+- _projects/landsapes.md
 - _projects/florals.md
 - _projects/still-life.md
 - _projects/targets.md
