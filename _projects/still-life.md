@@ -1,5 +1,5 @@
 ---
-title: Structure
+title: Structures
 layout: project
 date: '2018-11-07T00:03:26.000+00:00'
 description: ''
