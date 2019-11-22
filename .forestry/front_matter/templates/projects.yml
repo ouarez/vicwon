@@ -53,8 +53,8 @@ fields:
   config:
     labelField: name
 pages:
+- _projects/florals.md
+- _projects/still-life.md
+- _projects/targets.md
 - _projects/the-inbox.md
 - _projects/notes.md
-- _projects/florals.md
-- _projects/targets.md
-- _projects/still-life.md
