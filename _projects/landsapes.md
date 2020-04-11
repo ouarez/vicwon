@@ -2,7 +2,7 @@
 layout: project
 title: Landscapes
 description: ''
-cover_image: "/assets/ptitpaysage-1.jpg"
+cover_image: "/assets/paysagebrdr.jpg"
 works:
 - name: Ocean View
   image: "/assets/OceanViewVPW2020.jpg"
