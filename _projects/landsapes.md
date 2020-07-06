@@ -7,11 +7,9 @@ works:
 - name: Mirage
   image: "/assets/miragevpw2020-1.jpg"
   description: |-
-    Acrylics on canvas
+    Acrylics on canvasAcryliques sur toile
 
-    Acryliques sur toile
-
-    24" x 24" (61x 61cm)
+    24 x 24" (61x 61cm)
 
     2020
 - name: Ocean View
