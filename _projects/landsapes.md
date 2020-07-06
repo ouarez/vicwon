@@ -7,7 +7,9 @@ works:
 - name: Mirage
   image: "/assets/miragevpw2020-1.jpg"
   description: |-
-    Acrylics on canvasAcryliques sur toile
+    Acrylics on canvas
+
+    Acryliques sur toile
 
     24 x 24" (61x 61cm)
 
