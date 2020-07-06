@@ -3,7 +3,7 @@ title: Florals
 layout: project
 date: '2018-11-06T22:35:36.000+00:00'
 description: ''
-cover_image: "/assets/flower-power.jpg"
+cover_image: "/assets/flower-box.jpg"
 order: 3
 works:
 - name: Finding the Light
