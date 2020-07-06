@@ -2,8 +2,11 @@
 layout: project
 title: Landscapes
 description: ''
-cover_image: "/assets/ptitpaysage.jpg"
+cover_image: "/assets/miragevpw2020.jpg"
 works:
+- name: Mirage
+  image: "/assets/miragevpw2020-1.jpg"
+  description: ''
 - name: Ocean View
   image: "/assets/OceanViewVPW2020.jpg"
   description: "Acrylics on canvas  \nAcryliques sur toile\n\n24 x 30\" (61x 76cm)\n\n2020"
@@ -16,5 +19,6 @@ works:
 - name: Sun Shower
   image: "/assets/sunshower2-3.jpg"
   description: "Acrylics on canvas  \nAcryliques sur toile\n\n21 1/2 x 31 3/4\" (55x80.6cm)\n\n2019"
+published: false
 
 ---
