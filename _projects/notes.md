@@ -1,7 +1,7 @@
 ---
 title: Notes
 layout: project
-date: 2018-11-06 23:17:23 +0000
+date: '2018-11-06T23:17:23.000+00:00'
 description: ''
 cover_image: "/assets/notes.jpg"
 order: 2
@@ -48,7 +48,8 @@ works:
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n18 x 18”  (46 x 46cm)\n\n2015"
 - name: Paper Borduas
   image: "/assets/paper-borduas.jpg"
-  description: "Paper and velvet on panel  \npapier et velours sur panneau \n\n 33 x 23” (84 x 58cm) \n\n2016"
+  description: "Paper and velvet on panel  \npapier et velours sur panneau \n\n 33
+    x 23” (84 x 58cm) \n\n2016"
 - name: Speechless
   image: "/assets/speechless.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n18 x 18”  (46 x 46
@@ -56,7 +57,7 @@ works:
 - image: "/assets/white.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n12 x 12” (46 x 46 cm)\n\n2015"
   name: White
-- name: Bloc Party
+- name: Deliverance
   image: "/assets/bloc-party.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n20 x 12.5” (51x32cm)\n\n2015"
 
