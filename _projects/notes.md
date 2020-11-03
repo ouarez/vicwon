@@ -58,7 +58,7 @@ works:
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n12 x 12” (46 x 46 cm)\n\n2015"
   name: White
 - name: Deliverance
-  image: "/assets/bloc-party.jpg"
+  image: "/assets/deliverance.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n20 x 12.5” (51x32cm)\n\n2015 "
 
 ---
