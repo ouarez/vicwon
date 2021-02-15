@@ -30,7 +30,8 @@ works:
     *"
 - name: I made it for you
   image: "/assets/made-it-for-you.jpg"
-  description: "Acrylics on panel  \nAcryliques sur panneau\n\n12x14” (30.5x35.5cm)\n\n2019"
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n12x14” (30.5x35.5cm)\n\n2019
+    *"
 - name: Flower Box
   image: "/assets/flower-box.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n12x12” (30.5x30.5cm)\n\n2019"
