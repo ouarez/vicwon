@@ -59,7 +59,8 @@ works:
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n18 x 18”  (46 x 46
     cm)\n\n2015"
 - image: "/assets/white.jpg"
-  description: "Acrylics on panel  \nAcryliques sur panneau\n\n12 x 12” (46 x 46 cm)\n\n2015"
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n12 x 12” (46 x 46 cm)\n\n2015
+    *"
   name: White
 - name: Deliverance
   image: "/assets/deliverance.jpg"
