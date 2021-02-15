@@ -15,7 +15,8 @@ works:
     *"
 - name: Finding the Light
   image: "/assets/findinthelight2020.jpg"
-  description: "Acrylics on panel  \nAcryliques sur panneau\n\n28x18\" (71x45cm)\n\n2020 "
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n28x18\" (71x45cm)\n\n2020
+    *"
 - name: Tuxedo Night
   image: "/assets/tuxedonightsmaryet.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n25 x 38” (63.5 x 96.5cm)\n\n2019"
