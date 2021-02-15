@@ -38,7 +38,8 @@ works:
     *"
 - name: Out The Window
   image: "/assets/out-the-window.jpg"
-  description: "Acrylics on panel  \nAcryliques sur panneau\n\n20 x 16” (50.8 x 40.6cm)\n\n2013"
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n20 x 16” (50.8 x 40.6cm)\n\n2013
+    *"
 - name: Blue Away
   image: "/assets/blue-away.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n40 x 30” (102 x 76cm)\n\n2014"
