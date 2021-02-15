@@ -8,7 +8,7 @@ order: 3
 works:
 - name: Souvenir
   image: "/assets/souvenirweb.jpg"
-  description: ''
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n30x18\" (76x45cm)\n\n2020"
 - name: Finding the Light
   image: "/assets/findinthelight2020.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n28x18\" (71x45cm)\n\n2020 "
@@ -76,6 +76,5 @@ works:
   image: "/assets/night.jpg"
   description: "Acrylics, graphite on panel  \nAcrylique et graphite sur panneau\n\n24
     x 30” (58 x 76cm)\n\n2015"
-published: false
 
 ---
