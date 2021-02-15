@@ -11,7 +11,8 @@ works:
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n24x24\" (61x61cm)\n\n2021"
 - name: Souvenir
   image: "/assets/souvenir2020vpw.jpg"
-  description: "Acrylics on panel  \nAcryliques sur panneau\n\n30x18\" (76x45cm)\n\n2020"
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n30x18\" (76x45cm)\n\n2020
+    *"
 - name: Finding the Light
   image: "/assets/findinthelight2020.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n28x18\" (71x45cm)\n\n2020 "
