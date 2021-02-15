@@ -23,6 +23,7 @@ works:
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n20 x 20”  (51x 51cm)\n\n2018"
 - name: Dwelling
   image: "/assets/dwelling.jpg"
-  description: "Acrylics on panel  \nAcryliques sur panneau\n\n35 x 19”  (89 x 48cm)\n\n2018"
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n35 x 19”  (89 x 48cm)\n\n2018
+    *"
 
 ---
