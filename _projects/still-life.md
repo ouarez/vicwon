@@ -12,7 +12,8 @@ works:
     *"
 - name: Untold Fortunes
   image: "/assets/untold-fortunes.jpg"
-  description: "Acrylics on panel  \nAcryliques sur panneau\n\n12 x 12”  (30.5 x 30.5cm)\n\n2018"
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n12 x 12”  (30.5 x 30.5cm)\n\n2018
+    *"
 - name: Accomodation
   image: "/assets/accomodation.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n12 x 12”  (30.5 x 30.5cm)\n\n2018"
