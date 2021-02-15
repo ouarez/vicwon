@@ -42,7 +42,8 @@ works:
     *"
 - name: Blue Away
   image: "/assets/blue-away.jpg"
-  description: "Acrylics on panel  \nAcryliques sur panneau\n\n40 x 30” (102 x 76cm)\n\n2014"
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n40 x 30” (102 x 76cm)\n\n2014
+    *"
 - name: Morning
   image: "/assets/morning.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n33 x 23” (84 x 58cm)\n\n2015"
