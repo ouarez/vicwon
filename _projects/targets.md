@@ -8,7 +8,8 @@ order: 4
 works:
 - name: On Target
   image: "/assets/target1.jpg"
-  description: "Acrylics on panel  \nAcryliques sur panneau\n\n10 x 10” (25 x 25cm)\n\n2016"
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n10 x 10” (25 x 25cm)\n\n2016
+    *"
 - name: On Target 1
   image: "/assets/target2.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n11 x 11”  (25 x 25cm)\n\n2017
