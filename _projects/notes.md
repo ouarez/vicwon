@@ -64,6 +64,7 @@ works:
   name: White
 - name: Deliverance
   image: "/assets/deliverance.jpg"
-  description: "Acrylics on panel  \nAcryliques sur panneau\n\n20 x 12.5” (51x32cm)\n\n2015 "
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n20 x 12.5” (51x32cm)\n\n2015
+    *"
 
 ---
