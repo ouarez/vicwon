@@ -75,7 +75,7 @@ works:
 - name: Field of Dreams
   image: "/assets/field-of-dreams.jpg"
   description: "Acrylics and graphite on panel  \nAcryliques et graphite sur panneau\n\n36
-    \ x 48” (91.5 x 122cm)\n\n2017"
+    \ x 48” (91.5 x 122cm)\n\n2017 *"
 - name: Sunflower
   image: "/assets/sunflower.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n23 1/2 x 23 1/2” (60
