@@ -22,7 +22,8 @@ works:
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n25 x 38” (63.5 x 96.5cm)\n\n2019"
 - name: The Celebration
   image: "/assets/TheCelebration1.jpg"
-  description: "Acrylics on canvas  \nAcryliques sur toile\n\n44x36\" (112x91cm)\n\n2019"
+  description: "Acrylics on canvas  \nAcryliques sur toile\n\n44x36\" (112x91cm)\n\n2019
+    *"
 - name: Primary Posies
   image: "/assets/primaryposiesvpw2019.jpg"
   description: "Acrylics on canvas  \nAcryliques sur toile\n\n24x20\" (61x51cm)\n\n2019"
