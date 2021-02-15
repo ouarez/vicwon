@@ -16,7 +16,8 @@ works:
     *"
 - name: Accomodation
   image: "/assets/accomodation.jpg"
-  description: "Acrylics on panel  \nAcryliques sur panneau\n\n12 x 12”  (30.5 x 30.5cm)\n\n2018"
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n12 x 12”  (30.5 x 30.5cm)\n\n2018
+    *"
 - name: Yellow Structure
   image: "/assets/yellow-structure.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n20 x 20”  (51x 51cm)\n\n2018"
