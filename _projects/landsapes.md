@@ -25,6 +25,7 @@ works:
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n12 x 9” (30.5 x 23cm)\n\n2019"
 - name: Sun Shower
   image: "/assets/sunshower2-3.jpg"
-  description: "Acrylics on canvas  \nAcryliques sur toile\n\n21 1/2 x 31 3/4\" (55x80.6cm)\n\n2019"
+  description: "Acrylics on canvas  \nAcryliques sur toile\n\n21 1/2 x 31 3/4\" (55x80.6cm)\n\n2019
+    *"
 
 ---
