@@ -54,7 +54,8 @@ works:
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n30 x 18” (76 x 46cm)\n\n2018"
 - name: Wallflower
   image: "/assets/wallflower.jpg"
-  description: "Acrylics on panel  \nAcryliques sur panneau\n\n14 x 12” ( 36 x 30.5cm)\n\n2018"
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n14 x 12” ( 36 x 30.5cm)\n\n2018
+    *"
 - name: Paper Floral 1
   image: "/assets/paper-floral-1.jpg"
   description: "Acrylics and graphite on panel  \nAcryliques et graphite sur panneau\n\n24
