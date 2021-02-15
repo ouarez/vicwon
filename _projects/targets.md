@@ -20,7 +20,8 @@ works:
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n13 x 13”  (25 x 25cm)\n\n2017"
 - name: Fake Flower
   image: "/assets/fake-flower.jpg"
-  description: "Acrylics on panel  \nAcryliques sur panneau\n\n13 x 13”  (25 x 25cm)\n\n2017"
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n13 x 13”  (25 x 25cm)\n\n2017
+    *"
 - name: Sky in Red, White and Blue
   image: "/assets/sky-in-red.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n32”  (81cm)\n\n2017
