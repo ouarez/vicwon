@@ -14,7 +14,8 @@ works:
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n11 x 11”  (25 x 25cm)\n\n2017"
 - name: On Target 2
   image: "/assets/target3.jpg"
-  description: "Acrylics on panel  \nAcryliques sur panneau\n\n11 x 11”  (25 x 25cm)\n\n2017"
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n11 x 11”  (25 x 25cm)\n\n2017
+    *"
 - name: Sky Target
   image: "/assets/sky-target.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n13 x 13”  (25 x 25cm)\n\n2017"
