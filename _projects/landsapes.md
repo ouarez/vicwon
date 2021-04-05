@@ -12,7 +12,7 @@ works:
   description: "Acrylics on canvas  \nAcryliques sur toile\n\n18 x 30\" (46 x 76cm)\n\n2020"
 - name: Nightlife
   image: "/assets/nightlight2020.jpg"
-  description: "Acrylics on canvas  \nAcryliques sur toile\n\n8 x 12\" (20 x 30.5cm)\n\n2020"
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n8 x 12\" (20 x 30.5cm)\n\n2020"
 - name: Mirage
   image: "/assets/miragevpw2020-1.jpg"
   description: "Acrylics on canvas  \nAcryliques sur toile\n\n24 x 24\" (61x 61cm)\n\n2020
@@ -32,6 +32,5 @@ works:
   image: "/assets/sunshower2-3.jpg"
   description: "Acrylics on canvas  \nAcryliques sur toile\n\n21 1/2 x 31 3/4\" (55x80.6cm)\n\n2019
     *"
-published: false
 
 ---
