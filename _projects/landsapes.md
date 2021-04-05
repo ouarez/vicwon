@@ -4,6 +4,9 @@ title: Landscapes
 description: ''
 cover_image: "/assets/miragevpw2020.jpg"
 works:
+- name: Homage à l'hiver
+  image: "/assets/homagealhivervpw2021.jpg"
+  description: ''
 - name: Refuge
   image: "/assets/refuge2020.jpg"
   description: "Acrylics on canvas  \nAcryliques sur toile\n\n18 x 30\" (46 x 76cm)\n\n2020"
@@ -29,5 +32,6 @@ works:
   image: "/assets/sunshower2-3.jpg"
   description: "Acrylics on canvas  \nAcryliques sur toile\n\n21 1/2 x 31 3/4\" (55x80.6cm)\n\n2019
     *"
+published: false
 
 ---
