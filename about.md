@@ -15,4 +15,4 @@ Wonnacott’s current direction in painting merges an intimate realism with an a
 
 Works by Wonnacott have been exhibited in Toronto, Ottawa, Montréal, Miami and Oregon, as well as South Korea and can be found in public and private collections, including the Canada Council Art Bank, The Colart Collection, Collection Loto-Québec, and the Foundation la Chapelle historique du Bon-Pasteur.
 
-Please note that works _Sold_ are marked with an asterisk* after the date
+Please note that works _Sold_ are marked with an asterisk* after the date.
