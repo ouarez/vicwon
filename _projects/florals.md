@@ -8,7 +8,7 @@ order: 3
 works:
 - name: Global Bouquet
   image: "/assets/globalbouquetvpw2021.jpg"
-  description: "Acrylics on panel  \nAcryliques sur panneau\n\n24x24\" (61x61cm)\n\n2021"
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n24x24\" (61x61cm)\n\n2021*"
 - name: Souvenir
   image: "/assets/souvenir2020vpw.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n30x18\" (76x45cm)\n\n2020
