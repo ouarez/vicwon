@@ -6,7 +6,14 @@ cover_image: "/assets/miragevpw2020.jpg"
 works:
 - name: Homage à l'hiver
   image: "/assets/homagealhivervpw2021.jpg"
-  description: ''
+  description: |-
+    Acrylics on panel
+
+    Acryliques sur panneau
+
+    11 1/2 x 15 1/2" (29 x 39cm)
+
+    2021
 - name: Refuge
   image: "/assets/refuge2020.jpg"
   description: "Acrylics on canvas  \nAcryliques sur toile\n\n18 x 30\" (46 x 76cm)\n\n2020"
