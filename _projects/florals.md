@@ -6,6 +6,9 @@ description: ''
 cover_image: "/assets/globalbouquetvpw2021-1.jpg"
 order: 3
 works:
+- name: Emanation
+  image: "/assets/emanation2vpw2021.jpg"
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n24x24\" (61x61cm)\n\n2021*"
 - name: Global Bouquet
   image: "/assets/globalbouquetvpw2021.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n24x24\" (61x61cm)\n\n2021*"
