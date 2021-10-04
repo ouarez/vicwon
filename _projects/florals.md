@@ -60,7 +60,7 @@ works:
     *"
 - name: New Beginnings
   image: "/assets/new-beginnings.jpg"
-  description: "Acrylics on panel  \nAcryliques sur panneau\n\n30 x 18” (76 x 46cm)\n\n2018"
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n30 x 18” (76 x 46cm)\n\n2018*"
 - name: Wallflower
   image: "/assets/wallflower.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n14 x 12” ( 36 x 30.5cm)\n\n2018
