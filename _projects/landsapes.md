@@ -4,6 +4,10 @@ title: Landscapes
 description: ''
 cover_image: "/assets/miragevpw2020.jpg"
 works:
+- name: Twilight
+  image: "/assets/twilight2021wonnacott.jpg"
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n18 x 36\" (45.7 x 91.4
+    cm)\n\n2021"
 - name: Homage à l'hiver
   image: "/assets/homagealhivervpw2021.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n11 1/2 x 15 1/2\" (29
