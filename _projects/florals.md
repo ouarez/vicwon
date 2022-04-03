@@ -8,7 +8,7 @@ order: 3
 works:
 - name: Soirée
   image: "/assets/soireevpw2021.jpg"
-  description: "Acrylics on panel  \nAcryliques sur panneau\n\n18x28\" (46x71cm)\n\n2021*"
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n18x28\" (46x71cm)\n\n2021"
 - name: Afterglow
   image: "/assets/afterglow-vpw2021.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n24x24\" (61x61cm)\n\n2021*"
