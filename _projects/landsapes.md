@@ -27,7 +27,7 @@ works:
     *"
 - name: Ocean View
   image: "/assets/OceanViewVPW2020.jpg"
-  description: "Acrylics on canvas  \nAcryliques sur toile\n\n24 x 30\" (61x 76cm)\n\n2020"
+  description: "Acrylics on canvas  \nAcryliques sur toile\n\n24 x 30\" (61x 76cm)\n\n2020*"
 - name: Water line
   image: "/assets/Waterline2020VPW.jpg"
   description: "Acrylics on canvas  \nAcryliques sur toile\n\n12 x 38\" (30.5 x 96.5cm)\n\n2020
