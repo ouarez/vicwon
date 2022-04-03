@@ -11,7 +11,7 @@ works:
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n18x28\" (46x71cm)\n\n2021*"
 - name: Afterglow
   image: "/assets/afterglow-vpw2021.jpg"
-  description: "Acrylics on panel  \nAcryliques sur panneau\n\n24x24\" (61x61cm)\n\n2021"
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n24x24\" (61x61cm)\n\n2021*"
 - name: Emanation
   image: "/assets/emanation2vpw2021.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n24x24\" (61x61cm)\n\n2021*"
