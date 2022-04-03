@@ -27,7 +27,7 @@ works:
   description: "Paper on panel  \nPapier sur panneau\n\n18 x 18” (45.7 x 45.7 cm)\n\n2014"
 - name: Notes on Black
   image: "/assets/notes-on-black.jpg"
-  description: "Acrylics on canvas  \nAcryliques sur toile\n\n30 x 36” (76 x 91cm)\n\n2014"
+  description: "Acrylics on canvas  \nAcryliques sur toile\n\n30 x 36” (76 x 91cm)\n\n2014*"
 - name: Blue
   image: "/assets/blue.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n20 x 16” (50.8 x 40.6cm)\n\n2013
