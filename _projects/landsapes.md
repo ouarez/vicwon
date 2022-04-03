@@ -4,6 +4,9 @@ title: Landscapes
 description: ''
 cover_image: "/assets/miragevpw2020.jpg"
 works:
+- name: Green Dream
+  image: "/assets/greendreamframed.jpg"
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n8 x 12\" (20 x 30.5cm)\n\n2022"
 - name: Twilight
   image: "/assets/twilight2021wonnacott.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n18 x 36\" (45.7 x 91.4
