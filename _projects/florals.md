@@ -43,7 +43,7 @@ works:
     *"
 - name: Flower Box
   image: "/assets/flower-box.jpg"
-  description: "Acrylics on panel  \nAcryliques sur panneau\n\n12x12” (30.5x30.5cm)\n\n2019"
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n12x12” (30.5x30.5cm)\n\n2019*"
 - name: Pink Cameo
   image: "/assets/pink-cameo.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n24 x 20” (61 x 51cm)\n\n2019"
