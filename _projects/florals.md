@@ -88,7 +88,7 @@ works:
 - name: Sunflower
   image: "/assets/sunflower.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n23 1/2 x 23 1/2” (60
-    x 60cm)\n\n2016"
+    x 60cm)\n\n2016*"
 - name: The Orator
   image: "/assets/the-orator.jpg"
   description: "Acrylics and graphite on panel  \nAcryliques et graphite sur panneau\n\n18
