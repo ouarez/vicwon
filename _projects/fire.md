@@ -2,7 +2,7 @@
 layout: project
 title: Fire
 description: ''
-cover_image: "/assets/sparkdetail4vpw2022.jpg"
+cover_image: "/assets/bonfiredetail1-vpw2022.jpg"
 works:
 - name: Bonfire / feu
   image: "/assets/bonfire-vpw-2022.jpg"
