@@ -5,13 +5,15 @@ description: ''
 cover_image: "/assets/miragevpw2020.jpg"
 works:
 - name: Moodscape
-  image: ''
+  image: "/assets/moodscape2021vpw.jpg"
   description: |-
     36 x 72" (91.4 x 183cm)
 
     paper, basswood, led lights
 
     2021
+
+    ![](/assets/moodscapevpw2021.jpg)
 - name: Green Dream
   image: "/assets/greendreamframed.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n8 x 12\" (20 x 30.5cm)\n\n2022"
