@@ -13,7 +13,7 @@ works:
 
     2021
 
-    ![](/assets/moodscapevpw2021small.jpg)
+    ![](/assets/moodscapevpw2021tiny.jpg)
 - name: Green Dream
   image: "/assets/greendreamframed.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n8 x 12\" (20 x 30.5cm)\n\n2022"
