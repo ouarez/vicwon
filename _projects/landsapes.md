@@ -4,6 +4,9 @@ title: Landscapes
 description: ''
 cover_image: "/assets/miragevpw2020.jpg"
 works:
+- name: Moodscape
+  image: ''
+  description: '36 x 72" '
 - name: Green Dream
   image: "/assets/greendreamframed.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n8 x 12\" (20 x 30.5cm)\n\n2022"
