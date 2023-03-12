@@ -4,6 +4,9 @@ title: Fire
 description: ''
 cover_image: "/assets/bonfiredetail1-vpw2022.jpg"
 works:
+- name: Vigil
+  image: "/assets/vigilwonnacott2023.jpg"
+  description: "Acrylics on panel  \nAcryliques sur panneau\n\n18 x 10\" (47.5 x 25cm)\n\n2023"
 - name: Make a Wish
   image: "/assets/makeawish2022vpw.jpg"
   description: "Acrylics on panel  \nAcryliques sur panneau\n\n18 x 10\" (47.5 x 25cm)\n\n2022*"
